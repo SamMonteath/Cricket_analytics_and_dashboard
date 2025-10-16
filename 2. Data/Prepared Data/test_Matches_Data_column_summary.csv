@@ -1,0 +1,41 @@
+Column Name,Data Type,Non-Null Count
+TEST Match No,int64,2537
+Match ID,int64,2537
+Match Name,object,2537
+Series ID,int64,2537
+Series Name,object,2537
+Match Start Date,object,2537
+Match End Date,object,2537
+Match Format,object,2537
+Team1 ID,int64,2537
+Team1 Name,object,2537
+Team1 Captain,int64,2537
+Innings1 Team1 Runs Scored,int64,2537
+Innings1 Team1 Wickets Fell,int64,2537
+Innings1 Team1 Extras Rec,int64,2537
+Innings2 Team1 Runs Scored,float64,2207
+Innings2 Team1 Wickets Fell,float64,2207
+Innings2 Team1 Extras Rec,float64,2207
+Team2 ID,int64,2537
+Team2 Name,object,2537
+Team2 Captain,int64,2537
+Innings1 Team2 Runs Scored,float64,2519
+Innings1 Team2 Wickets Fell,float64,2519
+Innings1 Team2 Extras Rec,float64,2519
+Innings2 Team2 Runs Scored,float64,1971
+Innings2 Team2 Wickets Fell,float64,1971
+Innings2 Team2 Extras Rec,float64,1971
+Match Venue (Stadium),object,2537
+Match Venue (City),object,2537
+Match Venue (Country),object,2537
+Umpire 1,object,2536
+Umpire 2,object,2536
+Match Referee,object,1361
+Toss Winner,object,2537
+Toss Winner Choice,object,2537
+Match Winner,object,1747
+Match Result Text,object,2537
+MOM Player,float64,1633
+Team1 Playing 11,object,2537
+Team2 Playing 11,object,2537
+Debut Players,object,2537
