@@ -1,12 +1,12 @@
 ,Innings 1 Team 1 Runs,Innings 1 Team 1 Wickets,Innings 1 Team 1 Extras,Innings 2 Team 1 Runs,Innings 2 Team 1 Wickets,Innings 2 Team 1 Extras,Innings 1 Team 2 Runs,Innings 1 Team 2 Wickets,Innings 1 Team 2 Extras,Innings 2 Team 2 Runs,Innings 2 Team 2 Wickets,Innings 2 Team 2 Extras,,
 count,2473,2473,2473,2156,2156,2156,2455,2455,2455,1915,1915,1915,,"As expected, isn't always an innings after the first"
-mean,329,9,17,241,8,14,316,10,18,185,7,12,,
-std,136,1,10,106,3,9,137,1,11,101,4,9,,
-min,7,0,0,0,0,0,0,0,0,0,0,0,,All to be expected over a lot of matches
-25%,225,10,10,170,6,8,215,10,10,111,3,5,,
-50%,312,10,15,234,10,13,300,10,16,178,8,10,,
-75%,426,10,22,303,10,19,406,10,24,250,10,17,,
-max,903,10,64,680,10,68,952,10,76,657,10,61,,
+mean,329.00,9.00,17.00,241.00,8.00,14.00,316.00,10.00,18.00,185.00,7.00,12.00,,
+std,136.00,1.00,10.00,106.00,3.00,9.00,137.00,1.00,11.00,101.00,4.00,9.00,,
+min,7.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,All to be expected over a lot of matches
+25%,225.00,10.00,10.00,170.00,6.00,8.00,215.00,10.00,10.00,111.00,3.00,5.00,,
+50%,312.00,10.00,15.00,234.00,10.00,13.00,300.00,10.00,16.00,178.00,8.00,10.00,,
+75%,426.00,10.00,22.00,303.00,10.00,19.00,406.00,10.00,24.00,250.00,10.00,17.00,,
+max,903.00,10.00,64.00,680.00,10.00,68.00,952.00,10.00,76.00,657.00,10.00,61.00,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,"As expected, no values greater than 10",,,"As expected, no values greater than 10",,,"As expected, no values greater than 10",,,"As expected, no values greater than 10",,,
