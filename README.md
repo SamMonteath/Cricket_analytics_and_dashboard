@@ -15,4 +15,5 @@ This repository contains:
 4. Analysis - the visualisations of my analysis
 5. Client - the final report I prepared for the customer
 
-The final dashboard is available here: https://public.tableau.com/shared/F598BJ57X?:display_count=n&:origin=viz_share_link
+The final dashboard is available here: https://public.tableau.com/views/TestMatchesWhataffectsyourchancesofwinning/StoryboardTestMatches?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
